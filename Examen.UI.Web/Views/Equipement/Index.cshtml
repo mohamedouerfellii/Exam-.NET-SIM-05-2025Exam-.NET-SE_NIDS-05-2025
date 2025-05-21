@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Examen.ApplicationCore.Domain.Equipement>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EquipementId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhotoEquipement)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TypeEquipement)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EtatEquipement)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudioFk)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EquipementId)
+            </td>
+                <td>
+                    <img src="~/uploads/@item.PhotoEquipement" height="50" width="50">
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TypeEquipement)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EtatEquipement)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudioFk)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { id = item.EquipementId }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.ui.web\\views\\equipement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\views\\equipement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.ui.web\\views\\equipement\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\views\\equipement\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.ui.web\\views\\equipement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\views\\equipement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.ui.web\\controllers\\equipementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\controllers\\equipementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.applicationcore\\domain\\equipement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\equipement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.applicationcore\\domain\\studio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\studio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.ui.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.applicationcore\\services\\servicestudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\servicestudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.applicationcore\\interfaces\\iservicestudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iservicestudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.applicationcore\\services\\serviceequipement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\serviceequipement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.applicationcore\\services\\servicereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\servicereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.applicationcore\\interfaces\\iservicereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iservicereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.applicationcore\\interfaces\\iserviceequipement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iserviceequipement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.applicationcore\\interfaces\\iservicemusicien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iservicemusicien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.applicationcore\\services\\servicemusicien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\servicemusicien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.applicationcore\\domain\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.Infrastructure\\Migrations\\20250521222429_StudioMusicOuerfelliMohamed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen.Infrastructure\\Migrations\\20250521222429_StudioMusicOuerfelliMohamed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.applicationcore\\domain\\musicien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\musicien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.applicationcore\\domain\\collaborateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\collaborateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.infrastructure\\excontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\excontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|d:\\esprit\\4 arc-tic\\.net\\examnids-se\\examen\\examen.infrastructure\\configurations\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\configurations\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceStudio.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Services\\ServiceStudio.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\ServiceStudio.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Services\\ServiceStudio.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\ServiceStudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T23:17:04.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IServiceStudio.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceStudio.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IServiceStudio.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceStudio.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IServiceStudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T23:16:41.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.UI.Web\\Views\\Equipement\\Details.cshtml",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Views\\Equipement\\Details.cshtml",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.UI.Web\\Views\\Equipement\\Details.cshtml",
+              "RelativeToolTip": "Examen.UI.Web\\Views\\Equipement\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T23:09:10.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.UI.Web\\Views\\Equipement\\Index.cshtml",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Views\\Equipement\\Index.cshtml",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.UI.Web\\Views\\Equipement\\Index.cshtml",
+              "RelativeToolTip": "Examen.UI.Web\\Views\\Equipement\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T23:07:15.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.UI.Web\\Views\\Equipement\\Create.cshtml",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Views\\Equipement\\Create.cshtml",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.UI.Web\\Views\\Equipement\\Create.cshtml",
+              "RelativeToolTip": "Examen.UI.Web\\Views\\Equipement\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T23:03:22.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.UI.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Program.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.UI.Web\\Program.cs",
+              "RelativeToolTip": "Examen.UI.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T23:01:16.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EquipementController.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.UI.Web\\Controllers\\EquipementController.cs",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Controllers\\EquipementController.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.UI.Web\\Controllers\\EquipementController.cs",
+              "RelativeToolTip": "Examen.UI.Web\\Controllers\\EquipementController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T23:00:58.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Studio.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Domain\\Studio.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Studio.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Domain\\Studio.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Studio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:52:34.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Equipement.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Domain\\Equipement.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Equipement.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Domain\\Equipement.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Equipement.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:53:40.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceEquipement.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Services\\ServiceEquipement.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\ServiceEquipement.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Services\\ServiceEquipement.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\ServiceEquipement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:50:55.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IServiceEquipement.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceEquipement.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IServiceEquipement.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceEquipement.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IServiceEquipement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:50:29.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceReservation.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Services\\ServiceReservation.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\ServiceReservation.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Services\\ServiceReservation.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\ServiceReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:36:10.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IServiceReservation.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceReservation.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IServiceReservation.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceReservation.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IServiceReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:35:46.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceMusicien.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Services\\ServiceMusicien.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\ServiceMusicien.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Services\\ServiceMusicien.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\ServiceMusicien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:25:36.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IServiceMusicien.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceMusicien.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IServiceMusicien.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceMusicien.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IServiceMusicien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:25:14.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250521222429_StudioMusicOuerfelliMohamed.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.Infrastructure\\Migrations\\20250521222429_StudioMusicOuerfelliMohamed.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Migrations\\20250521222429_StudioMusicOuerfelliMohamed.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.Infrastructure\\Migrations\\20250521222429_StudioMusicOuerfelliMohamed.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\Migrations\\20250521222429_StudioMusicOuerfelliMohamed.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:24:29.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReservationConfiguration.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.Infrastructure\\Configurations\\ReservationConfiguration.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Configurations\\ReservationConfiguration.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.Infrastructure\\Configurations\\ReservationConfiguration.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\Configurations\\ReservationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:14:44.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EXContext.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.Infrastructure\\EXContext.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\EXContext.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.Infrastructure\\EXContext.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\EXContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:07:23.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Domain\\Reservation.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Reservation.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Domain\\Reservation.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:57:11.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Musicien.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Domain\\Musicien.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Musicien.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Domain\\Musicien.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Musicien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:51:30.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Collaborateur.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Domain\\Collaborateur.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Collaborateur.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examNIDS-SE\\Examen\\Examen.ApplicationCore\\Domain\\Collaborateur.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Collaborateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:50:31.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
